@@ -44,7 +44,7 @@ class _ResultPageState extends State<ResultPage> {
 
                 decoration:BoxDecoration(borderRadius: BorderRadius.circular(30),color: Colors.yellow),
                 child:
-                Center(child: Text("Re-Calculate",style: TextStyle(fontSize: 30,color: Colors.black),)),
+                Center(child: Text("Re- Calculate",style: TextStyle(fontSize: 30,color: Colors.black),)),
 
               ),
               onTap: (){

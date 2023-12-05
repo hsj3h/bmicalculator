@@ -17,11 +17,11 @@ class _FrontPageState extends State<FrontPage> {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.black,
+        backgroundColor: Colors.white70,
         appBar: AppBar(
           title: Text(
             "BMI CALCULATOR"
-          ),backgroundColor: Colors.black,
+          ),backgroundColor: Colors.white24,
         ),
         body: Column(
           children: [
